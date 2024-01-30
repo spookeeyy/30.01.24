@@ -21,3 +21,4 @@ nupp = ttk.Button(raam, text="Tervita!", command=tervita)
 nupp.place(x=70, y=40, width=150)
 
 raam.mainloop()
+
